@@ -1,0 +1,2 @@
+The grater numbers are: 0
+The smaller numbers are: 0
